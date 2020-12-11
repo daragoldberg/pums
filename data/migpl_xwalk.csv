@@ -1,0 +1,172 @@
+﻿migplac_id,migplac_name,US_intl
+0,N/A,na
+1,Alabama,US
+2,Alaska,US
+4,Arizona,US
+5,Arkansas,US
+6,California,US
+8,Colorado,US
+9,Connecticut,US
+10,Delaware,US
+11,District of Columbia,US
+12,Florida,US
+13,Georgia,US
+15,Hawaii,US
+16,Idaho,US
+17,Illinois,US
+18,Indiana,US
+19,Iowa,US
+20,Kansas,US
+21,Kentucky,US
+22,Louisiana,US
+23,Maine,US
+24,Maryland,US
+25,Massachusetts,US
+26,Michigan,US
+27,Minnesota,US
+28,Mississippi,US
+29,Missouri,US
+30,Montana,US
+31,Nebraska,US
+32,Nevada,US
+33,New Hampshire,US
+34,New Jersey,US
+35,New Mexico,US
+36,New York,US
+37,North Carolina,US
+38,North Dakota,US
+39,Ohio,US
+40,Oklahoma,US
+41,Oregon,US
+42,Pennsylvania,US
+44,Rhode Island,US
+45,South Carolina,US
+46,South Dakota,US
+47,Tennessee,US
+48,Texas,US
+49,Utah,US
+50,Vermont,US
+51,Virginia,US
+53,Washington,US
+54,West Virginia,US
+55,Wisconsin,US
+56,Wyoming,US
+99,"United States, n.s.",US
+100,"Samoa, 1950",US
+105,Guam,US
+110,Puerto Rico,US
+115,Virgin Islands,US
+120,Other US Possessions,US
+150,Canada,intl
+151,English Canada,intl
+152,French Canada,intl
+160,Atlantic Islands,intl
+200,Mexico,intl
+211,Belize/British Honduras,intl
+212,Costa Rica,intl
+213,El Salvador,intl
+214,Guatemala,intl
+215,Honduras,intl
+216,Nicaragua,intl
+217,Panama,intl
+218,Canal Zone,intl
+219,"Central America, n.e.c.",intl
+250,Cuba,intl
+261,Dominican Republic,intl
+262,Haiti,intl
+263,Jamaica,intl
+264,British West Indies,intl
+267,Other West Indies,intl
+290,Other Caribbean and North America,intl
+305,Argentina,intl
+310,Bolivia,intl
+315,Brazil,intl
+320,Chile,intl
+325,Colombia,intl
+330,Ecuador,intl
+345,Paraguay,intl
+350,Peru,intl
+360,Uruguay,intl
+365,Venezuela,intl
+390,"South America, n.e.c.",intl
+400,Denmark,intl
+401,Finland,intl
+402,Iceland,intl
+404,Norway,intl
+405,Sweden,intl
+410,England,intl
+411,Scotland,intl
+412,Wales,intl
+413,United Kingdom (excluding England: 2005ACS),intl
+414,Ireland,intl
+415,Northern Ireland,intl
+419,Other Northern Europe,intl
+420,Belgium,intl
+421,France,intl
+422,Luxembourg,intl
+425,Netherlands,intl
+426,Switzerland,intl
+429,Other Western Europe,intl
+430,Albania,intl
+433,Greece,intl
+434,Dodecanese Islands,intl
+435,Italy,intl
+436,Portugal,intl
+437,Azores,intl
+438,Spain,intl
+450,Austria,intl
+451,Bulgaria,intl
+452,Czechoslovakia,intl
+453,Germany,intl
+454,Hungary,intl
+455,Poland,intl
+456,Romania,intl
+457,Yugoslavia,intl
+458,Bosnia and Herzegovinia,intl
+459,Other Eastern Europe,intl
+460,Estonia,intl
+461,Latvia,intl
+462,Lithuania,intl
+463,Other Northern or Eastern Europe,intl
+465,USSR,intl
+498,Ukraine,intl
+499,"Europe, n.s.",intl
+500,China,intl
+501,Japan,intl
+502,Korea,intl
+503,Taiwan,intl
+515,Philippines,intl
+517,Thailand,intl
+518,Vietnam,intl
+519,Other South East Asia,intl
+520,Nepal,intl
+521,India,intl
+522,Iran,intl
+523,Iraq,intl
+525,Pakistan,intl
+534,Israel/Palestine,intl
+535,Jordan,intl
+537,Lebanon,intl
+539,United Arab Emirates,intl
+540,Saudi Arabia,intl
+541,Syria,intl
+542,Turkey,intl
+543,Afghanistan,intl
+551,Other Western Asia,intl
+599,"Asia, n.e.c.",intl
+600,Africa,intl
+610,Northern Africa,intl
+611,Egypt,intl
+619,Nigeria,intl
+620,Western Africa,intl
+621,Eastern Africa,intl
+622,Ethiopia,intl
+623,Kenya,intl
+694,South Africa (Union of),intl
+699,"Africa, n.e.c.",intl
+701,Australia,intl
+702,New Zealand,intl
+710,"Pacific Islands (Australia and New Zealand Subregions, not specified, Oceania and at Sea: ACS)",intl
+900,Abroad (unknown) or at sea,intl
+997,Unknown value,na
+999,Missing,na

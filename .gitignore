@@ -1,2 +1,4 @@
 
 *.DS_Store
+data/nyc_inflow_110620.csv
+data/nyc_outflow_110620.csv

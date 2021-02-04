@@ -1,171 +1,171 @@
-﻿StateFIPS,PUMA,GEOID10,NAME,Subregion,Subregion2,County,CountyFIPS
-09,00100,0900100,"Danbury, Ridgefield, Bethel, Brookfield, New Fairfield, Redding & Sherman Towns PUMA",CT,CT,Fairfield,09001
-09,00101,0900101,"Fairfield, New Canaan, Wilton, Weston & Easton Towns PUMA",CT,CT,Fairfield,09001
-09,00102,0900102,Stamford & Greenwich Towns PUMA,CT,CT,Fairfield,09001
-09,00103,0900103,"Norwalk, Westport & Darien Towns PUMA",CT,CT,Fairfield,09001
-09,00104,0900104,Bridgeport Town PUMA,CT,CT,Fairfield,09001
-09,00105,0900105,"Stratford, Shelton, Trumbull, Newtown & Monroe Towns PUMA",CT,CT,Fairfield,09001
-09,00500,0900500,Litchfield County PUMA,CT,CT,Litchfield,09005
-09,00900,0900900,New Haven County (Northwest) PUMA,CT,CT,New Haven,09009
-09,00901,0900901,Waterbury Town PUMA,CT,CT,New Haven,09009
-09,00902,0900902,"Meriden, Wallingford & North Haven Towns PUMA",CT,CT,New Haven,09009
-09,00903,0900903,"Hamden, Ansonia, Seymour, Derby, Woodbridge & Bethany Towns PUMA",CT,CT,New Haven,09009
-09,00904,0900904,"West Haven, Milford & Orange Towns PUMA",CT,CT,New Haven,09009
-09,00905,0900905,New Haven Town PUMA,CT,CT,New Haven,09009
-09,00906,0900906,"East Haven, Branford, Guilford, Madison & North Branford Towns PUMA",CT,CT,New Haven,09009
-34,00301,3400301,Bergen County (South Central)--Hackensack & Englewood (West) Cities PUMA,NJ In,NJ,Bergen,34003
-34,00302,3400302,"Bergen County (Southwest)--Rutherford, North Arlington & Hasbrouck Heights Boroughs PUMA",NJ In,NJ,Bergen,34003
-34,00303,3400303,"Bergen County (Southeast)--Fort Lee, Cliffside Park & Palisades Park Boroughs PUMA",NJ In,NJ,Bergen,34003
-34,00304,3400304,"Bergen County (West Central)--Fair Lawn Borough, Garfield City & Lodi Borough PUMA",NJ In,NJ,Bergen,34003
-34,00305,3400305,"Bergen County (East)--Tenafly, Park Ridge & Cresskill Boroughs PUMA",NJ In,NJ,Bergen,34003
-34,00306,3400306,"Bergen County (Northwest)--Ramsey, Oakland & Franklin Lakes Boroughs PUMA",NJ In,NJ,Bergen,34003
-34,00307,3400307,"Bergen County (North Central)--Bergenfield, Paramus, Dumont & New Milford Boroughs PUMA",NJ In,NJ,Bergen,34003
-34,00308,3400308,"Bergen County (Central)--Ridgewood Village, Glen Rock & Westwood Boroughs PUMA",NJ In,NJ,Bergen,34003
-34,00400,3400400,Passaic County (Southeast)--Paterson City PUMA,NJ In,NJ,Passaic,34031
-34,00501,3400501,Passaic County (South)--Passaic & Clifton (Southeast) Cities PUMA,NJ In,NJ,Passaic,34031
-34,00502,3400502,Passaic County (Central)--Hawthorne Borough & Clifton City (Northwest) PUMA,NJ In,NJ,Passaic,34031
-34,00503,3400503,"Passaic County (North)--Ringwood, Wanaque & Pompton Lakes Boroughs PUMA",NJ In,NJ,Passaic,34031
-34,00601,3400601,Hudson County (Central)--Jersey City (North) PUMA,NJ In,NJ,Hudson,34017
-34,00602,3400602,Hudson County (Central)--Jersey City (South) PUMA,NJ In,NJ,Hudson,34017
-34,00701,3400701,"Hudson County (North)--West New York, Secaucus & Guttenberg Towns PUMA",NJ In,NJ,Hudson,34017
-34,00702,3400702,Hudson County (Northeast)--Union City & Hoboken Cities PUMA,NJ In,NJ,Hudson,34017
-34,00703,3400703,"Hudson County (South & West)--Bayonne City, Kearney & Harrison Towns PUMA",NJ In,NJ,Hudson,34017
-34,00800,3400800,Hunterdon County PUMA,NJ Out,NJ,Hunterdon,34019
-34,00901,3400901,Middlesex County (Southeast) PUMA,NJ In,NJ,Middlesex,34023
-34,00902,3400902,Middlesex County (Southwest) PUMA,NJ In,NJ,Middlesex,34023
-34,00903,3400903,Middlesex County (Northwest)--South Plainfield & Middlesex Boroughs PUMA,NJ In,NJ,Middlesex,34023
-34,00904,3400904,Middlesex County (North Central)--Metuchen Borough PUMA,NJ In,NJ,Middlesex,34023
-34,00905,3400905,Middlesex County (Northeast)--Carteret Borough PUMA,NJ In,NJ,Middlesex,34023
-34,00906,3400906,"Middlesex County (Central)--New Brunswick City, South River & Highland Park Boroughs PUMA",NJ In,NJ,Middlesex,34023
-34,00907,3400907,Middlesex County (East Central)--Perth Amboy City & Sayreville Borough PUMA,NJ In,NJ,Middlesex,34023
-34,01001,3401001,Somerset County (North & West) PUMA,NJ In,NJ,Somerset,34035
-34,01002,3401002,Somerset County (South) PUMA,NJ In,NJ,Somerset,34035
-34,01003,3401003,Somerset County (Central)--North Plainfield & Somerville Boroughs PUMA,NJ In,NJ,Somerset,34035
-34,01101,3401101,Monmouth County (Southeast)--Tinton Falls Borough (South) PUMA,NJ In,NJ,Monmouth,34025
-34,01102,3401102,Monmouth County (Southwest)--Freehold Borough PUMA,NJ Out,NJ,Monmouth,34025
-34,01103,3401103,"Monmouth County (East Central)--Long Branch, Asbury Park Cities & Eatontown Borough PUMA",NJ Out,NJ,Monmouth,34025
-34,01104,3401104,Monmouth County (Northeast)--Red Bank & Tinton Falls (North) Boroughs PUMA,NJ Out,NJ,Monmouth,34025
-34,01105,3401105,Monmouth County (Northwest)--Keansburg Borough PUMA,NJ In,NJ,Monmouth,34025
-34,01106,3401106,Monmouth County (Central) PUMA,NJ Out,NJ,Monmouth,34025
-34,01201,3401201,Ocean County (South) PUMA,NJ Out,NJ,Ocean,34029
-34,01202,3401202,Ocean County (Central)--Beachwood Borough PUMA,NJ Out,NJ,Ocean,34029
-34,01203,3401203,Ocean County (North Central) PUMA,NJ Out,NJ,Ocean,34029
-34,01204,3401204,Ocean County (Northwest) PUMA,NJ Out,NJ,Ocean,34029
-34,01205,3401205,Ocean County (Northeast)--Point Pleasant Borough PUMA,NJ Out,NJ,Ocean,34029
-34,01301,3401301,Essex County (Southeast)--Newark City (North & East) PUMA,NJ In,NJ,Essex,34013
-34,01302,3401302,Essex County (Southeast)--Newark City (Southwest) PUMA,NJ In,NJ,Essex,34013
-34,01401,3401401,Essex County (Northeast) PUMA,NJ In,NJ,Essex,34013
-34,01402,3401402,Essex County (South Central)--East Orange City PUMA,NJ In,NJ,Essex,34013
-34,01403,3401403,Essex County (Northwest) PUMA,NJ In,NJ,Essex,34013
-34,01404,3401404,Essex County (Southwest) PUMA,NJ In,NJ,Essex,34013
-34,01501,3401501,Morris County (North)--Dover Town & Kinnelon Borough PUMA,NJ In,NJ,Morris,34027
-34,01502,3401502,Morris County (West) PUMA,NJ In,NJ,Morris,34027
-34,01503,3401503,Morris County (East)--Lincoln Park Borough PUMA,NJ In,NJ,Morris,34027
-34,01504,3401504,"Morris County (South)--Morristown Town, Madison & Florham Park Boroughs PUMA",NJ In,NJ,Morris,34027
-34,01600,3401600,Sussex County PUMA,NJ Out,NJ,Sussex,34037
-34,01700,3401700,Warren County PUMA,NJ Out,NJ,Warren,34041
-34,01800,3401800,Union County (Northeast)--Elizabeth City PUMA,NJ In,NJ,Union,34039
-34,01901,3401901,Union County (North Central)--Roselle Park Borough PUMA,NJ In,NJ,Union,34039
-34,01902,3401902,Union County (Northwest)--Summit City & Westfield Town (North) PUMA,NJ In,NJ,Union,34039
-34,01903,3401903,Union County (Southwest)--Plainfield City & Westfield Town (South) PUMA,NJ In,NJ,Union,34039
-34,01904,3401904,"Union County (Southeast)--Linden, Rahway Cities & Roselle Borough (South) PUMA",NJ In,NJ,Union,34039
-34,02301,3402301,Mercer County (West Central)--Trenton City PUMA,NJ Out,NJ,Mercer,34021
-34,02302,3402302,Mercer County (North)--Princeton Borough PUMA,NJ Out,NJ,Mercer,34021
-34,02303,3402303,Mercer County (South) PUMA,NJ Out,NJ,Mercer,34021
-36,02701,3602701,Sullivan & Ulster (West) Counties PUMA,Mid Hud,HV,Sullivan-Ulster,3610536111
-36,02702,3602702,Ulster County (East) PUMA,Mid Hud,HV,Ulster,36111
-36,02801,3602801,Dutchess County (North & East) PUMA,Mid Hud,HV,Dutchess,36027
-36,02802,3602802,Dutchess County (Southwest) PUMA,Mid Hud,HV,Dutchess,36027
-36,02901,3602901,Orange County (Northeast)--Greater Newburgh City PUMA,Mid Hud,HV,Orange,36071
-36,02902,3602902,Orange County (Northwest) PUMA,Mid Hud,HV,Orange,36071
-36,02903,3602903,Orange County (Southeast) PUMA,Mid Hud,HV,Orange,36071
-36,03001,3603001,Rockland County (North)--New City & Congers PUMA,Low Hud,HV,Rockland,36087
-36,03002,3603002,"Rockland County (South)--Orangetown, Clarkstown (South) & Ramapo (Southeast) Towns PUMA",Low Hud,HV,Rockland,36087
-36,03003,3603003,"Rockland County (West)--Spring Valley, Suffern Villages & Monsey PUMA",Low Hud,HV,Rockland,36087
-36,03101,3603101,Putnam County PUMA,Low Hud,HV,Putnam,36079
-36,03102,3603102,Westchester County (Northwest) PUMA,Low Hud,HV,Westchester,36119
-36,03103,3603103,Westchester County (Northeast) PUMA,Low Hud,HV,Westchester,36119
-36,03104,3603104,Westchester County (Southeast) PUMA,Low Hud,HV,Westchester,36119
-36,03105,3603105,Westchester County (Central)--White Plains City PUMA,Low Hud,HV,Westchester,36119
-36,03106,3603106,Westchester County (Southwest)--Yonkers City PUMA,Low Hud,HV,Westchester,36119
-36,03107,3603107,Westchester County (South Central)--New Rochelle & Mount Vernon Cities PUMA,Low Hud,HV,Westchester,36119
-36,03201,3603201,Nassau County (Northwest)--North Hempstead Town (North) PUMA,LI,LI,Nassau,36059
-36,03202,3603202,Nassau County (Northeast)--Oyster Bay Town (North) & Glen Cove City PUMA,LI,LI,Nassau,36059
-36,03203,3603203,Nassau County (East Central)--Oyster Bay Town (Central) PUMA,LI,LI,Nassau,36059
-36,03204,3603204,Nassau County (West Central)--North Hempstead Town (South) PUMA,LI,LI,Nassau,36059
-36,03205,3603205,Nassau County (West Central)--Hempstead Town (Northwest) PUMA,LI,LI,Nassau,36059
-36,03206,3603206,Nassau County (Central)--Hempstead Town (North Central)--Meadowbrook Corridor PUMA,LI,LI,Nassau,36059
-36,03207,3603207,Nassau County (Central)--Hempstead Town (Northeast) PUMA,LI,LI,Nassau,36059
-36,03208,3603208,Nassau County (Southeast)--Oyster Bay Town (South) PUMA,LI,LI,Nassau,36059
-36,03209,3603209,Nassau County (Central)--Hempstead Town (East Central) PUMA,LI,LI,Nassau,36059
-36,03210,3603210,Nassau County (South Central)--Hempstead Town (Southeast) PUMA,LI,LI,Nassau,36059
-36,03211,3603211,Nassau County (West Central)--Hempstead Town (West Central) PUMA,LI,LI,Nassau,36059
-36,03212,3603212,Nassau County (Southwest)--Hempstead Town (Southwest) & Long Beach City PUMA,LI,LI,Nassau,36059
-36,03301,3603301,Suffolk County (Northwest)--Huntington Town (North) PUMA,LI,LI,Suffolk,36103
-36,03302,3603302,Suffolk County (Northwest)--Huntington Town (South) PUMA,LI,LI,Suffolk,36103
-36,03303,3603303,Suffolk County (Northwest)--Smithtown Town PUMA,LI,LI,Suffolk,36103
-36,03304,3603304,Suffolk County (North Central)--Brookhaven Town (North) PUMA,LI,LI,Suffolk,36103
-36,03305,3603305,Suffolk County (East) PUMA,LI,LI,Suffolk,36103
-36,03306,3603306,Suffolk County (South Central)--Brookhaven Town (South) PUMA,LI,LI,Suffolk,36103
-36,03307,3603307,Suffolk County (Central)--Brookhaven Town (Central) PUMA,LI,LI,Suffolk,36103
-36,03308,3603308,Suffolk County (Central)--Brookhaven Town (West Central) PUMA,LI,LI,Suffolk,36103
-36,03309,3603309,Suffolk County (Central)--Islip Town (East) PUMA,LI,LI,Suffolk,36103
-36,03310,3603310,Suffolk County (Central)--Islip Town (Northwest) PUMA,LI,LI,Suffolk,36103
-36,03311,3603311,Suffolk County (Southwest)--Islip Town (South) PUMA,LI,LI,Suffolk,36103
-36,03312,3603312,Suffolk County (Southwest)--Babylon Town (Southeast) PUMA,LI,LI,Suffolk,36103
-36,03313,3603313,Suffolk County (West Central)--Babylon Town (Northwest) PUMA,LI,LI,Suffolk,36103
-36,03701,3603701,"NYC-Bronx Community District 8--Riverdale, Fieldston & Kingsbridge PUMA",NYC,NYC,Bronx,36005
-36,03702,3603702,"NYC-Bronx Community District 12--Wakefield, Williamsbridge & Woodlawn PUMA",NYC,NYC,Bronx,36005
-36,03703,3603703,"NYC-Bronx Community District 10--Co-op City, Pelham Bay & Schuylerville PUMA",NYC,NYC,Bronx,36005
-36,03704,3603704,"NYC-Bronx Community District 11--Pelham Parkway, Morris Park & Laconia PUMA",NYC,NYC,Bronx,36005
-36,03705,3603705,"NYC-Bronx Community District 3 & 6--Belmont, Crotona Park East & East Tremont PUMA",NYC,NYC,Bronx,36005
-36,03706,3603706,"NYC-Bronx Community District 7--Bedford Park, Fordham North & Norwood PUMA",NYC,NYC,Bronx,36005
-36,03707,3603707,"NYC-Bronx Community District 5--Morris Heights, Fordham South & Mount Hope PUMA",NYC,NYC,Bronx,36005
-36,03708,3603708,"NYC-Bronx Community District 4--Concourse, Highbridge & Mount Eden PUMA",NYC,NYC,Bronx,36005
-36,03709,3603709,"NYC-Bronx Community District 9--Castle Hill, Clason Point & Parkchester PUMA",NYC,NYC,Bronx,36005
-36,03710,3603710,"NYC-Bronx Community District 1 & 2--Hunts Point, Longwood & Melrose PUMA",NYC,NYC,Bronx,36005
-36,03801,3603801,"NYC-Manhattan Community District 12--Washington Heights, Inwood & Marble Hill PUMA",NYC,NYC,Manhattan,36061
-36,03802,3603802,"NYC-Manhattan Community District 9--Hamilton Heights, Manhattanville & West Harlem PUMA",NYC,NYC,Manhattan,36061
-36,03803,3603803,NYC-Manhattan Community District 10--Central Harlem PUMA,NYC,NYC,Manhattan,36061
-36,03804,3603804,NYC-Manhattan Community District 11--East Harlem PUMA,NYC,NYC,Manhattan,36061
-36,03805,3603805,NYC-Manhattan Community District 8--Upper East Side PUMA,NYC,NYC,Manhattan,36061
-36,03806,3603806,NYC-Manhattan Community District 7--Upper West Side & West Side PUMA,NYC,NYC,Manhattan,36061
-36,03807,3603807,"NYC-Manhattan Community District 4 & 5--Chelsea, Clinton & Midtown Business District PUMA",NYC,NYC,Manhattan,36061
-36,03808,3603808,"NYC-Manhattan Community District 6--Murray Hill, Gramercy & Stuyvesant Town PUMA",NYC,NYC,Manhattan,36061
-36,03809,3603809,NYC-Manhattan Community District 3--Chinatown & Lower East Side PUMA,NYC,NYC,Manhattan,36061
-36,03810,3603810,"NYC-Manhattan Community District 1 & 2--Battery Park City, Greenwich Village & Soho PUMA",NYC,NYC,Manhattan,36061
-36,03901,3603901,"NYC-Staten Island Community District 3--Tottenville, Great Kills & Annadale PUMA",NYC,NYC,Staten Island,36085
-36,03902,3603902,NYC-Staten Island Community District 2--New Springville & South Beach PUMA,NYC,NYC,Staten Island,36085
-36,03903,3603903,"NYC-Staten Island Community District 1--Port Richmond, Stapleton & Mariner's Harbor PUMA",NYC,NYC,Staten Island,36085
-36,04001,3604001,NYC-Brooklyn Community District 1--Greenpoint & Williamsburg PUMA,NYC,NYC,Brooklyn,36047
-36,04002,3604002,NYC-Brooklyn Community District 4--Bushwick PUMA,NYC,NYC,Brooklyn,36047
-36,04003,3604003,NYC-Brooklyn Community District 3--Bedford-Stuyvesant PUMA,NYC,NYC,Brooklyn,36047
-36,04004,3604004,NYC-Brooklyn Community District 2--Brooklyn Heights & Fort Greene PUMA,NYC,NYC,Brooklyn,36047
-36,04005,3604005,"NYC-Brooklyn Community District 6--Park Slope, Carroll Gardens & Red Hook PUMA",NYC,NYC,Brooklyn,36047
-36,04006,3604006,NYC-Brooklyn Community District 8--Crown Heights North & Prospect Heights PUMA,NYC,NYC,Brooklyn,36047
-36,04007,3604007,NYC-Brooklyn Community District 16--Brownsville & Ocean Hill PUMA,NYC,NYC,Brooklyn,36047
-36,04008,3604008,NYC-Brooklyn Community District 5--East New York & Starrett City PUMA,NYC,NYC,Brooklyn,36047
-36,04009,3604009,NYC-Brooklyn Community District 18--Canarsie & Flatlands PUMA,NYC,NYC,Brooklyn,36047
-36,04010,3604010,"NYC-Brooklyn Community District 17--East Flatbush, Farragut & Rugby PUMA",NYC,NYC,Brooklyn,36047
-36,04011,3604011,"NYC-Brooklyn Community District 9--Crown Heights South, Prospect Lefferts & Wingate PUMA",NYC,NYC,Brooklyn,36047
-36,04012,3604012,NYC-Brooklyn Community District 7--Sunset Park & Windsor Terrace PUMA,NYC,NYC,Brooklyn,36047
-36,04013,3604013,NYC-Brooklyn Community District 10--Bay Ridge & Dyker Heights PUMA,NYC,NYC,Brooklyn,36047
-36,04014,3604014,"NYC-Brooklyn Community District 12--Borough Park, Kensington & Ocean Parkway PUMA",NYC,NYC,Brooklyn,36047
-36,04015,3604015,NYC-Brooklyn Community District 14--Flatbush & Midwood PUMA,NYC,NYC,Brooklyn,36047
-36,04016,3604016,"NYC-Brooklyn Community District 15--Sheepshead Bay, Gerritsen Beach & Homecrest PUMA",NYC,NYC,Brooklyn,36047
-36,04017,3604017,NYC-Brooklyn Community District 11--Bensonhurst & Bath Beach PUMA,NYC,NYC,Brooklyn,36047
-36,04018,3604018,NYC-Brooklyn Community District 13--Brighton Beach & Coney Island PUMA,NYC,NYC,Brooklyn,36047
-36,04101,3604101,NYC-Queens Community District 1--Astoria & Long Island City PUMA,NYC,NYC,Queens,36081
-36,04102,3604102,NYC-Queens Community District 3--Jackson Heights & North Corona PUMA,NYC,NYC,Queens,36081
-36,04103,3604103,"NYC-Queens Community District 7--Flushing, Murray Hill & Whitestone PUMA",NYC,NYC,Queens,36081
-36,04104,3604104,"NYC-Queens Community District 11--Bayside, Douglaston & Little Neck PUMA",NYC,NYC,Queens,36081
-36,04105,3604105,"NYC-Queens Community District 13--Queens Village, Cambria Heights & Rosedale PUMA",NYC,NYC,Queens,36081
-36,04106,3604106,"NYC-Queens Community District 8--Briarwood, Fresh Meadows & Hillcrest PUMA",NYC,NYC,Queens,36081
-36,04107,3604107,NYC-Queens Community District 4--Elmhurst & South Corona PUMA,NYC,NYC,Queens,36081
-36,04108,3604108,NYC-Queens Community District 6--Forest Hills & Rego Park PUMA,NYC,NYC,Queens,36081
-36,04109,3604109,NYC-Queens Community District 2--Sunnyside & Woodside PUMA,NYC,NYC,Queens,36081
-36,04110,3604110,"NYC-Queens Community District 5--Ridgewood, Glendale & Middle Village PUMA",NYC,NYC,Queens,36081
-36,04111,3604111,NYC-Queens Community District 9--Richmond Hill & Woodhaven PUMA,NYC,NYC,Queens,36081
-36,04112,3604112,"NYC-Queens Community District 12--Jamaica, Hollis & St. Albans PUMA",NYC,NYC,Queens,36081
-36,04113,3604113,NYC-Queens Community District 10--Howard Beach & Ozone Park PUMA,NYC,NYC,Queens,36081
-36,04114,3604114,"NYC-Queens Community District 14--Far Rockaway, Breezy Point & Broad Channel PUMA",NYC,NYC,Queens,36081
+﻿StateFIPS,PUMA,GEOID10,NAME,Subregion,Subregion2,Region,County,CountyFIPS
+9,100,900100,"Danbury, Ridgefield, Bethel, Brookfield, New Fairfield, Redding & Sherman Towns PUMA",CT,CT,Region,Fairfield,9001
+9,101,900101,"Fairfield, New Canaan, Wilton, Weston & Easton Towns PUMA",CT,CT,Region,Fairfield,9001
+9,102,900102,Stamford & Greenwich Towns PUMA,CT,CT,Region,Fairfield,9001
+9,103,900103,"Norwalk, Westport & Darien Towns PUMA",CT,CT,Region,Fairfield,9001
+9,104,900104,Bridgeport Town PUMA,CT,CT,Region,Fairfield,9001
+9,105,900105,"Stratford, Shelton, Trumbull, Newtown & Monroe Towns PUMA",CT,CT,Region,Fairfield,9001
+9,500,900500,Litchfield County PUMA,CT,CT,Region,Litchfield,9005
+9,900,900900,New Haven County (Northwest) PUMA,CT,CT,Region,New Haven,9009
+9,901,900901,Waterbury Town PUMA,CT,CT,Region,New Haven,9009
+9,902,900902,"Meriden, Wallingford & North Haven Towns PUMA",CT,CT,Region,New Haven,9009
+9,903,900903,"Hamden, Ansonia, Seymour, Derby, Woodbridge & Bethany Towns PUMA",CT,CT,Region,New Haven,9009
+9,904,900904,"West Haven, Milford & Orange Towns PUMA",CT,CT,Region,New Haven,9009
+9,905,900905,New Haven Town PUMA,CT,CT,Region,New Haven,9009
+9,906,900906,"East Haven, Branford, Guilford, Madison & North Branford Towns PUMA",CT,CT,Region,New Haven,9009
+34,301,3400301,Bergen County (South Central)--Hackensack & Englewood (West) Cities PUMA,NJ In,NJ,Region,Bergen,34003
+34,302,3400302,"Bergen County (Southwest)--Rutherford, North Arlington & Hasbrouck Heights Boroughs PUMA",NJ In,NJ,Region,Bergen,34003
+34,303,3400303,"Bergen County (Southeast)--Fort Lee, Cliffside Park & Palisades Park Boroughs PUMA",NJ In,NJ,Region,Bergen,34003
+34,304,3400304,"Bergen County (West Central)--Fair Lawn Borough, Garfield City & Lodi Borough PUMA",NJ In,NJ,Region,Bergen,34003
+34,305,3400305,"Bergen County (East)--Tenafly, Park Ridge & Cresskill Boroughs PUMA",NJ In,NJ,Region,Bergen,34003
+34,306,3400306,"Bergen County (Northwest)--Ramsey, Oakland & Franklin Lakes Boroughs PUMA",NJ In,NJ,Region,Bergen,34003
+34,307,3400307,"Bergen County (North Central)--Bergenfield, Paramus, Dumont & New Milford Boroughs PUMA",NJ In,NJ,Region,Bergen,34003
+34,308,3400308,"Bergen County (Central)--Ridgewood Village, Glen Rock & Westwood Boroughs PUMA",NJ In,NJ,Region,Bergen,34003
+34,400,3400400,Passaic County (Southeast)--Paterson City PUMA,NJ In,NJ,Region,Passaic,34031
+34,501,3400501,Passaic County (South)--Passaic & Clifton (Southeast) Cities PUMA,NJ In,NJ,Region,Passaic,34031
+34,502,3400502,Passaic County (Central)--Hawthorne Borough & Clifton City (Northwest) PUMA,NJ In,NJ,Region,Passaic,34031
+34,503,3400503,"Passaic County (North)--Ringwood, Wanaque & Pompton Lakes Boroughs PUMA",NJ In,NJ,Region,Passaic,34031
+34,601,3400601,Hudson County (Central)--Jersey City (North) PUMA,NJ In,NJ,Region,Hudson,34017
+34,602,3400602,Hudson County (Central)--Jersey City (South) PUMA,NJ In,NJ,Region,Hudson,34017
+34,701,3400701,"Hudson County (North)--West New York, Secaucus & Guttenberg Towns PUMA",NJ In,NJ,Region,Hudson,34017
+34,702,3400702,Hudson County (Northeast)--Union City & Hoboken Cities PUMA,NJ In,NJ,Region,Hudson,34017
+34,703,3400703,"Hudson County (South & West)--Bayonne City, Kearney & Harrison Towns PUMA",NJ In,NJ,Region,Hudson,34017
+34,800,3400800,Hunterdon County PUMA,NJ Out,NJ,Region,Hunterdon,34019
+34,901,3400901,Middlesex County (Southeast) PUMA,NJ In,NJ,Region,Middlesex,34023
+34,902,3400902,Middlesex County (Southwest) PUMA,NJ In,NJ,Region,Middlesex,34023
+34,903,3400903,Middlesex County (Northwest)--South Plainfield & Middlesex Boroughs PUMA,NJ In,NJ,Region,Middlesex,34023
+34,904,3400904,Middlesex County (North Central)--Metuchen Borough PUMA,NJ In,NJ,Region,Middlesex,34023
+34,905,3400905,Middlesex County (Northeast)--Carteret Borough PUMA,NJ In,NJ,Region,Middlesex,34023
+34,906,3400906,"Middlesex County (Central)--New Brunswick City, South River & Highland Park Boroughs PUMA",NJ In,NJ,Region,Middlesex,34023
+34,907,3400907,Middlesex County (East Central)--Perth Amboy City & Sayreville Borough PUMA,NJ In,NJ,Region,Middlesex,34023
+34,1001,3401001,Somerset County (North & West) PUMA,NJ In,NJ,Region,Somerset,34035
+34,1002,3401002,Somerset County (South) PUMA,NJ In,NJ,Region,Somerset,34035
+34,1003,3401003,Somerset County (Central)--North Plainfield & Somerville Boroughs PUMA,NJ In,NJ,Region,Somerset,34035
+34,1101,3401101,Monmouth County (Southeast)--Tinton Falls Borough (South) PUMA,NJ In,NJ,Region,Monmouth,34025
+34,1102,3401102,Monmouth County (Southwest)--Freehold Borough PUMA,NJ Out,NJ,Region,Monmouth,34025
+34,1103,3401103,"Monmouth County (East Central)--Long Branch, Asbury Park Cities & Eatontown Borough PUMA",NJ Out,NJ,Region,Monmouth,34025
+34,1104,3401104,Monmouth County (Northeast)--Red Bank & Tinton Falls (North) Boroughs PUMA,NJ Out,NJ,Region,Monmouth,34025
+34,1105,3401105,Monmouth County (Northwest)--Keansburg Borough PUMA,NJ In,NJ,Region,Monmouth,34025
+34,1106,3401106,Monmouth County (Central) PUMA,NJ Out,NJ,Region,Monmouth,34025
+34,1201,3401201,Ocean County (South) PUMA,NJ Out,NJ,Region,Ocean,34029
+34,1202,3401202,Ocean County (Central)--Beachwood Borough PUMA,NJ Out,NJ,Region,Ocean,34029
+34,1203,3401203,Ocean County (North Central) PUMA,NJ Out,NJ,Region,Ocean,34029
+34,1204,3401204,Ocean County (Northwest) PUMA,NJ Out,NJ,Region,Ocean,34029
+34,1205,3401205,Ocean County (Northeast)--Point Pleasant Borough PUMA,NJ Out,NJ,Region,Ocean,34029
+34,1301,3401301,Essex County (Southeast)--Newark City (North & East) PUMA,NJ In,NJ,Region,Essex,34013
+34,1302,3401302,Essex County (Southeast)--Newark City (Southwest) PUMA,NJ In,NJ,Region,Essex,34013
+34,1401,3401401,Essex County (Northeast) PUMA,NJ In,NJ,Region,Essex,34013
+34,1402,3401402,Essex County (South Central)--East Orange City PUMA,NJ In,NJ,Region,Essex,34013
+34,1403,3401403,Essex County (Northwest) PUMA,NJ In,NJ,Region,Essex,34013
+34,1404,3401404,Essex County (Southwest) PUMA,NJ In,NJ,Region,Essex,34013
+34,1501,3401501,Morris County (North)--Dover Town & Kinnelon Borough PUMA,NJ In,NJ,Region,Morris,34027
+34,1502,3401502,Morris County (West) PUMA,NJ In,NJ,Region,Morris,34027
+34,1503,3401503,Morris County (East)--Lincoln Park Borough PUMA,NJ In,NJ,Region,Morris,34027
+34,1504,3401504,"Morris County (South)--Morristown Town, Madison & Florham Park Boroughs PUMA",NJ In,NJ,Region,Morris,34027
+34,1600,3401600,Sussex County PUMA,NJ Out,NJ,Region,Sussex,34037
+34,1700,3401700,Warren County PUMA,NJ Out,NJ,Region,Warren,34041
+34,1800,3401800,Union County (Northeast)--Elizabeth City PUMA,NJ In,NJ,Region,Union,34039
+34,1901,3401901,Union County (North Central)--Roselle Park Borough PUMA,NJ In,NJ,Region,Union,34039
+34,1902,3401902,Union County (Northwest)--Summit City & Westfield Town (North) PUMA,NJ In,NJ,Region,Union,34039
+34,1903,3401903,Union County (Southwest)--Plainfield City & Westfield Town (South) PUMA,NJ In,NJ,Region,Union,34039
+34,1904,3401904,"Union County (Southeast)--Linden, Rahway Cities & Roselle Borough (South) PUMA",NJ In,NJ,Region,Union,34039
+34,2301,3402301,Mercer County (West Central)--Trenton City PUMA,NJ Out,NJ,Region,Mercer,34021
+34,2302,3402302,Mercer County (North)--Princeton Borough PUMA,NJ Out,NJ,Region,Mercer,34021
+34,2303,3402303,Mercer County (South) PUMA,NJ Out,NJ,Region,Mercer,34021
+36,2701,3602701,Sullivan & Ulster (West) Counties PUMA,Mid Hud,HV,Region,Sullivan-Ulster,3610536111
+36,2702,3602702,Ulster County (East) PUMA,Mid Hud,HV,Region,Ulster,36111
+36,2801,3602801,Dutchess County (North & East) PUMA,Mid Hud,HV,Region,Dutchess,36027
+36,2802,3602802,Dutchess County (Southwest) PUMA,Mid Hud,HV,Region,Dutchess,36027
+36,2901,3602901,Orange County (Northeast)--Greater Newburgh City PUMA,Mid Hud,HV,Region,Orange,36071
+36,2902,3602902,Orange County (Northwest) PUMA,Mid Hud,HV,Region,Orange,36071
+36,2903,3602903,Orange County (Southeast) PUMA,Mid Hud,HV,Region,Orange,36071
+36,3001,3603001,Rockland County (North)--New City & Congers PUMA,Low Hud,HV,Region,Rockland,36087
+36,3002,3603002,"Rockland County (South)--Orangetown, Clarkstown (South) & Ramapo (Southeast) Towns PUMA",Low Hud,HV,Region,Rockland,36087
+36,3003,3603003,"Rockland County (West)--Spring Valley, Suffern Villages & Monsey PUMA",Low Hud,HV,Region,Rockland,36087
+36,3101,3603101,Putnam County PUMA,Low Hud,HV,Region,Putnam,36079
+36,3102,3603102,Westchester County (Northwest) PUMA,Low Hud,HV,Region,Westchester,36119
+36,3103,3603103,Westchester County (Northeast) PUMA,Low Hud,HV,Region,Westchester,36119
+36,3104,3603104,Westchester County (Southeast) PUMA,Low Hud,HV,Region,Westchester,36119
+36,3105,3603105,Westchester County (Central)--White Plains City PUMA,Low Hud,HV,Region,Westchester,36119
+36,3106,3603106,Westchester County (Southwest)--Yonkers City PUMA,Low Hud,HV,Region,Westchester,36119
+36,3107,3603107,Westchester County (South Central)--New Rochelle & Mount Vernon Cities PUMA,Low Hud,HV,Region,Westchester,36119
+36,3201,3603201,Nassau County (Northwest)--North Hempstead Town (North) PUMA,LI,LI,Region,Nassau,36059
+36,3202,3603202,Nassau County (Northeast)--Oyster Bay Town (North) & Glen Cove City PUMA,LI,LI,Region,Nassau,36059
+36,3203,3603203,Nassau County (East Central)--Oyster Bay Town (Central) PUMA,LI,LI,Region,Nassau,36059
+36,3204,3603204,Nassau County (West Central)--North Hempstead Town (South) PUMA,LI,LI,Region,Nassau,36059
+36,3205,3603205,Nassau County (West Central)--Hempstead Town (Northwest) PUMA,LI,LI,Region,Nassau,36059
+36,3206,3603206,Nassau County (Central)--Hempstead Town (North Central)--Meadowbrook Corridor PUMA,LI,LI,Region,Nassau,36059
+36,3207,3603207,Nassau County (Central)--Hempstead Town (Northeast) PUMA,LI,LI,Region,Nassau,36059
+36,3208,3603208,Nassau County (Southeast)--Oyster Bay Town (South) PUMA,LI,LI,Region,Nassau,36059
+36,3209,3603209,Nassau County (Central)--Hempstead Town (East Central) PUMA,LI,LI,Region,Nassau,36059
+36,3210,3603210,Nassau County (South Central)--Hempstead Town (Southeast) PUMA,LI,LI,Region,Nassau,36059
+36,3211,3603211,Nassau County (West Central)--Hempstead Town (West Central) PUMA,LI,LI,Region,Nassau,36059
+36,3212,3603212,Nassau County (Southwest)--Hempstead Town (Southwest) & Long Beach City PUMA,LI,LI,Region,Nassau,36059
+36,3301,3603301,Suffolk County (Northwest)--Huntington Town (North) PUMA,LI,LI,Region,Suffolk,36103
+36,3302,3603302,Suffolk County (Northwest)--Huntington Town (South) PUMA,LI,LI,Region,Suffolk,36103
+36,3303,3603303,Suffolk County (Northwest)--Smithtown Town PUMA,LI,LI,Region,Suffolk,36103
+36,3304,3603304,Suffolk County (North Central)--Brookhaven Town (North) PUMA,LI,LI,Region,Suffolk,36103
+36,3305,3603305,Suffolk County (East) PUMA,LI,LI,Region,Suffolk,36103
+36,3306,3603306,Suffolk County (South Central)--Brookhaven Town (South) PUMA,LI,LI,Region,Suffolk,36103
+36,3307,3603307,Suffolk County (Central)--Brookhaven Town (Central) PUMA,LI,LI,Region,Suffolk,36103
+36,3308,3603308,Suffolk County (Central)--Brookhaven Town (West Central) PUMA,LI,LI,Region,Suffolk,36103
+36,3309,3603309,Suffolk County (Central)--Islip Town (East) PUMA,LI,LI,Region,Suffolk,36103
+36,3310,3603310,Suffolk County (Central)--Islip Town (Northwest) PUMA,LI,LI,Region,Suffolk,36103
+36,3311,3603311,Suffolk County (Southwest)--Islip Town (South) PUMA,LI,LI,Region,Suffolk,36103
+36,3312,3603312,Suffolk County (Southwest)--Babylon Town (Southeast) PUMA,LI,LI,Region,Suffolk,36103
+36,3313,3603313,Suffolk County (West Central)--Babylon Town (Northwest) PUMA,LI,LI,Region,Suffolk,36103
+36,3701,3603701,"NYC-Bronx Community District 8--Riverdale, Fieldston & Kingsbridge PUMA",NYC,NYC,NYC,Bronx,36005
+36,3702,3603702,"NYC-Bronx Community District 12--Wakefield, Williamsbridge & Woodlawn PUMA",NYC,NYC,NYC,Bronx,36005
+36,3703,3603703,"NYC-Bronx Community District 10--Co-op City, Pelham Bay & Schuylerville PUMA",NYC,NYC,NYC,Bronx,36005
+36,3704,3603704,"NYC-Bronx Community District 11--Pelham Parkway, Morris Park & Laconia PUMA",NYC,NYC,NYC,Bronx,36005
+36,3705,3603705,"NYC-Bronx Community District 3 & 6--Belmont, Crotona Park East & East Tremont PUMA",NYC,NYC,NYC,Bronx,36005
+36,3706,3603706,"NYC-Bronx Community District 7--Bedford Park, Fordham North & Norwood PUMA",NYC,NYC,NYC,Bronx,36005
+36,3707,3603707,"NYC-Bronx Community District 5--Morris Heights, Fordham South & Mount Hope PUMA",NYC,NYC,NYC,Bronx,36005
+36,3708,3603708,"NYC-Bronx Community District 4--Concourse, Highbridge & Mount Eden PUMA",NYC,NYC,NYC,Bronx,36005
+36,3709,3603709,"NYC-Bronx Community District 9--Castle Hill, Clason Point & Parkchester PUMA",NYC,NYC,NYC,Bronx,36005
+36,3710,3603710,"NYC-Bronx Community District 1 & 2--Hunts Point, Longwood & Melrose PUMA",NYC,NYC,NYC,Bronx,36005
+36,3801,3603801,"NYC-Manhattan Community District 12--Washington Heights, Inwood & Marble Hill PUMA",NYC,NYC,NYC,Manhattan,36061
+36,3802,3603802,"NYC-Manhattan Community District 9--Hamilton Heights, Manhattanville & West Harlem PUMA",NYC,NYC,NYC,Manhattan,36061
+36,3803,3603803,NYC-Manhattan Community District 10--Central Harlem PUMA,NYC,NYC,NYC,Manhattan,36061
+36,3804,3603804,NYC-Manhattan Community District 11--East Harlem PUMA,NYC,NYC,NYC,Manhattan,36061
+36,3805,3603805,NYC-Manhattan Community District 8--Upper East Side PUMA,NYC,NYC,NYC,Manhattan,36061
+36,3806,3603806,NYC-Manhattan Community District 7--Upper West Side & West Side PUMA,NYC,NYC,NYC,Manhattan,36061
+36,3807,3603807,"NYC-Manhattan Community District 4 & 5--Chelsea, Clinton & Midtown Business District PUMA",NYC,NYC,NYC,Manhattan,36061
+36,3808,3603808,"NYC-Manhattan Community District 6--Murray Hill, Gramercy & Stuyvesant Town PUMA",NYC,NYC,NYC,Manhattan,36061
+36,3809,3603809,NYC-Manhattan Community District 3--Chinatown & Lower East Side PUMA,NYC,NYC,NYC,Manhattan,36061
+36,3810,3603810,"NYC-Manhattan Community District 1 & 2--Battery Park City, Greenwich Village & Soho PUMA",NYC,NYC,NYC,Manhattan,36061
+36,3901,3603901,"NYC-Staten Island Community District 3--Tottenville, Great Kills & Annadale PUMA",NYC,NYC,NYC,Staten Island,36085
+36,3902,3603902,NYC-Staten Island Community District 2--New Springville & South Beach PUMA,NYC,NYC,NYC,Staten Island,36085
+36,3903,3603903,"NYC-Staten Island Community District 1--Port Richmond, Stapleton & Mariner's Harbor PUMA",NYC,NYC,NYC,Staten Island,36085
+36,4001,3604001,NYC-Brooklyn Community District 1--Greenpoint & Williamsburg PUMA,NYC,NYC,NYC,Brooklyn,36047
+36,4002,3604002,NYC-Brooklyn Community District 4--Bushwick PUMA,NYC,NYC,NYC,Brooklyn,36047
+36,4003,3604003,NYC-Brooklyn Community District 3--Bedford-Stuyvesant PUMA,NYC,NYC,NYC,Brooklyn,36047
+36,4004,3604004,NYC-Brooklyn Community District 2--Brooklyn Heights & Fort Greene PUMA,NYC,NYC,NYC,Brooklyn,36047
+36,4005,3604005,"NYC-Brooklyn Community District 6--Park Slope, Carroll Gardens & Red Hook PUMA",NYC,NYC,NYC,Brooklyn,36047
+36,4006,3604006,NYC-Brooklyn Community District 8--Crown Heights North & Prospect Heights PUMA,NYC,NYC,NYC,Brooklyn,36047
+36,4007,3604007,NYC-Brooklyn Community District 16--Brownsville & Ocean Hill PUMA,NYC,NYC,NYC,Brooklyn,36047
+36,4008,3604008,NYC-Brooklyn Community District 5--East New York & Starrett City PUMA,NYC,NYC,NYC,Brooklyn,36047
+36,4009,3604009,NYC-Brooklyn Community District 18--Canarsie & Flatlands PUMA,NYC,NYC,NYC,Brooklyn,36047
+36,4010,3604010,"NYC-Brooklyn Community District 17--East Flatbush, Farragut & Rugby PUMA",NYC,NYC,NYC,Brooklyn,36047
+36,4011,3604011,"NYC-Brooklyn Community District 9--Crown Heights South, Prospect Lefferts & Wingate PUMA",NYC,NYC,NYC,Brooklyn,36047
+36,4012,3604012,NYC-Brooklyn Community District 7--Sunset Park & Windsor Terrace PUMA,NYC,NYC,NYC,Brooklyn,36047
+36,4013,3604013,NYC-Brooklyn Community District 10--Bay Ridge & Dyker Heights PUMA,NYC,NYC,NYC,Brooklyn,36047
+36,4014,3604014,"NYC-Brooklyn Community District 12--Borough Park, Kensington & Ocean Parkway PUMA",NYC,NYC,NYC,Brooklyn,36047
+36,4015,3604015,NYC-Brooklyn Community District 14--Flatbush & Midwood PUMA,NYC,NYC,NYC,Brooklyn,36047
+36,4016,3604016,"NYC-Brooklyn Community District 15--Sheepshead Bay, Gerritsen Beach & Homecrest PUMA",NYC,NYC,NYC,Brooklyn,36047
+36,4017,3604017,NYC-Brooklyn Community District 11--Bensonhurst & Bath Beach PUMA,NYC,NYC,NYC,Brooklyn,36047
+36,4018,3604018,NYC-Brooklyn Community District 13--Brighton Beach & Coney Island PUMA,NYC,NYC,NYC,Brooklyn,36047
+36,4101,3604101,NYC-Queens Community District 1--Astoria & Long Island City PUMA,NYC,NYC,NYC,Queens,36081
+36,4102,3604102,NYC-Queens Community District 3--Jackson Heights & North Corona PUMA,NYC,NYC,NYC,Queens,36081
+36,4103,3604103,"NYC-Queens Community District 7--Flushing, Murray Hill & Whitestone PUMA",NYC,NYC,NYC,Queens,36081
+36,4104,3604104,"NYC-Queens Community District 11--Bayside, Douglaston & Little Neck PUMA",NYC,NYC,NYC,Queens,36081
+36,4105,3604105,"NYC-Queens Community District 13--Queens Village, Cambria Heights & Rosedale PUMA",NYC,NYC,NYC,Queens,36081
+36,4106,3604106,"NYC-Queens Community District 8--Briarwood, Fresh Meadows & Hillcrest PUMA",NYC,NYC,NYC,Queens,36081
+36,4107,3604107,NYC-Queens Community District 4--Elmhurst & South Corona PUMA,NYC,NYC,NYC,Queens,36081
+36,4108,3604108,NYC-Queens Community District 6--Forest Hills & Rego Park PUMA,NYC,NYC,NYC,Queens,36081
+36,4109,3604109,NYC-Queens Community District 2--Sunnyside & Woodside PUMA,NYC,NYC,NYC,Queens,36081
+36,4110,3604110,"NYC-Queens Community District 5--Ridgewood, Glendale & Middle Village PUMA",NYC,NYC,NYC,Queens,36081
+36,4111,3604111,NYC-Queens Community District 9--Richmond Hill & Woodhaven PUMA,NYC,NYC,NYC,Queens,36081
+36,4112,3604112,"NYC-Queens Community District 12--Jamaica, Hollis & St. Albans PUMA",NYC,NYC,NYC,Queens,36081
+36,4113,3604113,NYC-Queens Community District 10--Howard Beach & Ozone Park PUMA,NYC,NYC,NYC,Queens,36081
+36,4114,3604114,"NYC-Queens Community District 14--Far Rockaway, Breezy Point & Broad Channel PUMA",NYC,NYC,NYC,Queens,36081
